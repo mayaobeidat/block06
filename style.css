@@ -1,0 +1,31 @@
+h1{
+    text-align: center;
+    font-family: fantasy;
+    font-size: xx-large;
+}
+h2{
+    text-align: center;
+    font-family: fantasy;
+    font-size: x-large;
+}
+h3{
+    text-align: center;
+    font-family: fantasy;
+    font-size: larger;
+}
+#proteins{
+    text-align: center;
+    font-family: fantasy;
+}
+#produce{
+    text-align: center;
+    font-family: fantasy;
+}
+#drygoods{
+    text-align: center;
+    font-family: fantasy;
+}
+#drinks{
+    text-align: center;
+    font-family: fantasy;
+}
